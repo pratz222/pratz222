@@ -9,7 +9,7 @@
 - 💬 Ask me about **Embedded Systems, Internet of Things**
 - 📫 How to reach me **pratyush252003@gmail.com**
 - 👨‍💻 All of my projects are available at **http://pratyush222.epizy.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1sOyePc21TMHIgsRu3LeE7NgugBB5Vhdo/view?usp=sharing**
+- 📄 Resume **https://drive.google.com/file/d/1sOyePc21TMHIgsRu3LeE7NgugBB5Vhdo/view?usp=sharing**
 
 <div> <a href="https://www.linkedin.com/in/pratyush222" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/pratz222" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
