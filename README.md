@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratz222&label=Profile%20views&color=0e75b6&style=flat" alt="pratz222" /> </p>
 
+<img align="right"  alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1100/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
 - 🔭 I’m currently working on **Arm Cortex M3/M4 based projects**
 - 👯 I’m looking to collaborate on **Embedded Systems projects**
