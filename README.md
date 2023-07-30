@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Embedded Systems, RTOS, Linux**
 - 💬 Ask me about **Embedded Systems, Internet of Things**
 - 📫 How to reach me **pratyush252003@gmail.com**
-- 👨‍💻 All of my projects are available at **https://pratyush252003.wixsite.com/pratyush222**
+- 👨‍💻 Know more about me (Portfolio) **https://pratyush252003.wixsite.com/pratyush222**
 - 📄 Resume **https://drive.google.com/file/d/1sOyePc21TMHIgsRu3LeE7NgugBB5Vhdo/view?usp=sharing**
 
 <div> <a href="https://www.linkedin.com/in/pratyush222" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
