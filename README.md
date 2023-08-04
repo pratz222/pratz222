@@ -5,12 +5,19 @@
 <img align="right"  alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1100/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
 - 🔭 I’m currently working on **Arm Cortex M3/M4 based projects**
+
 - 👯 I’m looking to collaborate on **Embedded Systems projects**
+
 - 🌱 I’m currently learning **Embedded Systems, RTOS, Linux**
+
 - 💬 Ask me about **Embedded Systems, Internet of Things**
+
 - 📫 How to reach me **pratyush252003@gmail.com**
+
 - 👨‍💻 Know more about me (Portfolio) **https://pratyush252003.wixsite.com/pratyush222**
-- 📄 Resume **https://drive.google.com/file/d/1sOyePc21TMHIgsRu3LeE7NgugBB5Vhdo/view?usp=sharing**
+
+- 📄 Resume **https://drive.google.com/file/d/1eyUsBrn1rDCluhvPk4x1b4Zf8XxTHrwY/view?usp=sharing**
+
 
 <div> <a href="https://www.linkedin.com/in/pratyush222" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/pratz222" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
