@@ -16,7 +16,7 @@
 
 - 👨‍💻 Know more about me (Portfolio) **https://pratyush252003.wixsite.com/pratyush222**
 
-- 📄 Resume **https://drive.google.com/file/d/1eyUsBrn1rDCluhvPk4x1b4Zf8XxTHrwY/view?usp=sharing**
+- 📄 Resume **https://docs.google.com/document/d/1bACB7rLt3H7XAZckHCxhf46ksFy2U1ZuFUnwCJCPQ7c**
 
 
 <div> <a href="https://www.linkedin.com/in/pratyush222" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
