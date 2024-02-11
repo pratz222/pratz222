@@ -4,11 +4,11 @@
 
 <img align="right"  alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1100/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
-- 🔭 I’m currently working on **Arm Cortex M3/M4 based projects**
+- 🔭 I’m currently working on **Arm Cortex M3/M4, RTOS, CAN **
 
 - 👯 I’m looking to collaborate on **Embedded Systems projects**
 
-- 🌱 I’m currently learning **Embedded Systems, RTOS, Linux**
+- 🌱 I’m currently learning **Automotive Embedded Systems, RTOS, ROS**
 
 - 💬 Ask me about **Embedded Systems, Internet of Things**
 
