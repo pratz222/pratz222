@@ -8,11 +8,13 @@
 
 - 👯 I’m looking to collaborate on **Embedded Systems projects**
 
-- 🌱 I’m currently learning **Automotive Embedded Systems, RTOS, ROS**
+- 🌱 I’m currently learning **Automotive Embedded Systems, RTOS, Edge IoT**
 
-- 💬 Ask me about **Embedded Systems, Internet of Things**
+- 💬 Ask me about **Embedded Systems, Internet of Things, Electronics**
 
 - 📫 How to reach me **pratyush252003@gmail.com**
+
+- 📑 My Resume **https://drive.google.com/file/d/1gwmcveRsqVK1jfu5ELh_m-7tQqA17rDF/view?usp=sharing** 
 
 - 👨‍💻 Know more about me (Portfolio) **https://pratyush252003.wixsite.com/pratyush222**
 
