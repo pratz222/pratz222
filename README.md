@@ -15,8 +15,8 @@
 - 📫 How to reach me **pratyush252003@gmail.com**
 
 - 👨‍💻 Know more about me (Portfolio) **https://pratyush252003.wixsite.com/pratyush222**
-
-- 📑 My Resume **https://drive.google.com/file/d/1gwmcveRsqVK1jfu5ELh_m-7tQqA17rDF/view?usp=sharing**
+  
+- 📑 My Resume 
 
 <br> </br>
 ![LinkedIn Banner](https://github.com/pratz222/pratz222/assets/53640877/49326727-e599-478a-9c1b-e5615d8729dd)
