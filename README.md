@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratyush252003@gmail.com**
 
-- 👨‍💻 Know more about me (Portfolio) **https://pratyush222.wixsite.com/pratyush222**
+- 👨‍💻 Know more about me (Portfolio) **https://pratyush222.wixsite.com/pratyush**
   
 - 📑 My Resume 
 
