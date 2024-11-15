@@ -41,6 +41,6 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratz222&show_icons=true&locale=en&layout=compact" alt="pratz222" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratz222&" alt="pratz222" /></p>
+<p><img align="center" src="![Pratz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratz222&show_icons=true&theme=radical)" alt="pratz222" /></p>
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
