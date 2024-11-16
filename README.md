@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **pratyush252003@gmail.com**
   
-- 📑 My Resume 
+- 📑 My Resume   [drive.google.com/file/resume](https://drive.google.com/file/d/1gwmcveRsqVK1jfu5ELh_m-7tQqA17rDF/view?usp=sharing)
 <br> </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratz222" alt="pratz222" /></a> </p>
 
@@ -40,7 +40,9 @@
 <br> </br>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratz222&show_icons=true&locale=en&layout=compact" alt="pratz222" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratz222&show_icons=true&theme=radical&locale=en&layout=compact" alt="pratz222" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratz222&show_icons=true&theme=radical&locale=en&layout=compact" alt="pratz222" /></p>
+
+
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
