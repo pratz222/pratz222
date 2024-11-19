@@ -30,6 +30,7 @@
 <a href="https://instagram.com/pratz222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratz222" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratz222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratz222" height="30" width="40" /></a>
 <a href="https://twitter.com/pratz_222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratz_222" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Pratyush" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-researchgate-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-6-pack-logos-icons-3030378.png" alt="pratyush222" height="30" width="30" /></a>
 </p>
 
 <br> </br>
