@@ -43,7 +43,6 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratz222&show_icons=true&theme=radical&locale=en&layout=compact" alt="pratz222" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratz222&show_icons=true&theme=radical&locale=en&layout=compact" alt="pratz222" /></p>
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratz222&theme=radical&date_format=j%20M%5B%20Y%5D&layout=compact" alt="GitHub Streak" /></a></p>
 
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
