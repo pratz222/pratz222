@@ -16,7 +16,7 @@
 
 - ⚡ What I do ? **Crafting intelligent systems for a connected future**
 
-- 👨‍💻 Find My Portfolio [pratyush222.wixsite.com/pratyush](https://pratyush222.wixsite.com/pratyush)
+- 👨‍💻 Find My Portfolio [https://pratyush222.vercel.app](https://pratyush222.vercel.app)
 
 - 📫 How to reach me **pratyush252003@gmail.com**
   
